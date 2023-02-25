@@ -1,7 +1,7 @@
 # HeartDiseaseML
  Is it possible to confidently predict heart disease?
 
-### Dataset overview
+### Dataset Description
 -------
 
 The Heart Disease Prediction dataset on Kaggle contains information from 270 patients who have undergone cardiac catheterizations to determine whether they have heart disease or not.
